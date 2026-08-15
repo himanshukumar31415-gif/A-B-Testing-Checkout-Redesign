@@ -66,3 +66,5 @@ python run_ab_test.py
 - Check for novelty effects by running longer and comparing week-over-week lift
 - Add a guardrail metric (e.g., checkout error rate) to make sure the new flow
   isn't improving conversion while creating a different downstream problem
+
+Live Link : https://a-b-testing-checkout-redesign-mgsmq3h4y26jq77bupg89t.streamlit.app/
